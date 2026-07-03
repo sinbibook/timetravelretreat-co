@@ -45,7 +45,7 @@
 }
 
 .logo-icon {
-    width: 150px;
+    width: 200px;
     height: auto;
     transition: all 0.3s ease;
 }
@@ -212,7 +212,7 @@
     background: transparent;
     color: white;
     border: 1px solid color-mix(in srgb, white 30%, transparent);
-    font-family: var(--font-en-main);
+    font-family: 'Pretendard', sans-serif;
     font-size: 1rem;
     font-weight: 700;
     text-transform: uppercase;
@@ -267,9 +267,9 @@
     background: transparent;
     color: white;
     border: 1px solid color-mix(in srgb, white 30%, transparent);
-    font-family: var(--font-en-main);
-    font-size: 0.9rem;
-    font-weight: 400;
+    font-family: 'Pretendard', sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.1em;
     cursor: pointer;
@@ -522,7 +522,7 @@ body.mobile-menu-open {
     background: white;
     border: none;
     color: var(--color-secondary);
-    font-family: var(--font-en-main);
+    font-family: 'Pretendard', sans-serif;
     font-size: 1.1rem;
     font-weight: 700;
     letter-spacing: 0.1em;
@@ -564,9 +564,9 @@ body.mobile-menu-open {
     background: white;
     border: none;
     color: var(--color-secondary);
-    font-family: var(--font-en-main);
-    font-size: 0.8rem;
-    font-weight: 400;
+    font-family: 'Pretendard', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 700;
     letter-spacing: 0.1em;
     border-radius: 0;
     margin: 0;
