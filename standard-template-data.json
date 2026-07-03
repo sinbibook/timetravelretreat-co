@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.12.0",
-    "generatedAt": "2026-07-03T05:08:07.025985898Z",
+    "version": "1.13.0",
+    "generatedAt": "2026-07-03T05:24:32.900861228Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "bfcef79b-3666-4ce3-9a95-02efca274790",
     "homepageId": "48c34c44-5c4f-41dd-995d-ab95fb074531"
@@ -69,40 +69,104 @@
     },
     "facilities": [
       {
-        "id": "ffc5dd99-5a51-4d06-85dd-ef3d209002cc",
-        "name": "공용 바베큐",
-        "description": "가볍게 모여 앉아 나누는 식사 속에서\n자연스럽게 하루의 이야기가 이어집니다.\n편안한 분위기 속에서 여유로운 시간을 보내보세요.",
-        "usageGuide": " ※ 자세한 내용은 예약안내 페이지 참고 부탁드립니다.\n",
+        "id": "6b9f2602-d0cf-4242-85a9-7f3989ff27ce",
+        "name": "힐링 펜션",
+        "description": "첫눈에 편안함이 전해지는 전경과 함께\n머무는 순간마다 편안함을 전합니다.",
+        "usageGuide": " ",
         "displayOrder": 0,
         "images": [
           {
-            "id": "48b1df37-15ab-43da-8889-dc70a9927705",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ffc5dd99-5a51-4d06-85dd-ef3d209002cc/main/1782979956713-hrequft0nk.jpg",
+            "id": "bbece940-07af-46ce-83b2-08e03cc31a98",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6b9f2602-d0cf-4242-85a9-7f3989ff27ce/main/1783056119749-5yoiszszwc.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "426cadc9-1722-40ed-bf05-ee374bd5d023",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ffc5dd99-5a51-4d06-85dd-ef3d209002cc/main/1782979956710-huo9bs37w0.jpg",
+            "id": "90334551-64a4-4f1e-a382-ede23ac79b44",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6b9f2602-d0cf-4242-85a9-7f3989ff27ce/main/1783056119658-gu80lrxra1.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "90bc3923-a181-4a8f-a2e0-0939d59e97f1",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ffc5dd99-5a51-4d06-85dd-ef3d209002cc/main/1782979956705-0nzi6rqx0o.jpg",
+            "id": "ea60c881-0386-4cbf-b2aa-7cd337bd51bc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6b9f2602-d0cf-4242-85a9-7f3989ff27ce/main/1783056119738-6klyxmvm3v.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "73b4aa9d-8286-4eb1-a679-6714c49cf189",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ffc5dd99-5a51-4d06-85dd-ef3d209002cc/main/1782979956716-pp0wrhck77.jpg",
+            "id": "25b8d439-8681-41a4-9b10-e18b86b21582",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6b9f2602-d0cf-4242-85a9-7f3989ff27ce/main/1783056119743-t4krm0pjom.jpg",
             "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b1911766-a1a0-4635-a254-d4e7448fa697",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6b9f2602-d0cf-4242-85a9-7f3989ff27ce/main/1783056119736-wmppumqrb6.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "deba4b7b-aa3c-4c2f-8cb2-12c37b48d0e8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6b9f2602-d0cf-4242-85a9-7f3989ff27ce/main/1783056119772-2c11jih1nf.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "70ab4d58-afed-4342-b7a1-9434dde4c112",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6b9f2602-d0cf-4242-85a9-7f3989ff27ce/main/1783056119674-fd1w7dlsjz.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "fe7a5a3a-945a-4008-9549-e8e4aed1bd9f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6b9f2602-d0cf-4242-85a9-7f3989ff27ce/main/1783056119803-atzyhphk2r.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b3240e76-6973-4c07-8085-be1664332f45",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6b9f2602-d0cf-4242-85a9-7f3989ff27ce/main/1783056119840-23888hiy31.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "3b5d7381-a386-42c7-8f29-7b1f6d5534ca",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6b9f2602-d0cf-4242-85a9-7f3989ff27ce/main/1783056119846-405pw4kkyw.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "7ab6841d-0e8c-4bfa-9b99-2aaaf3591af4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6b9f2602-d0cf-4242-85a9-7f3989ff27ce/main/1783056119872-vmbo5hmal7.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b715bad7-be83-4696-96b7-173b51aca54f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6b9f2602-d0cf-4242-85a9-7f3989ff27ce/main/1783056119848-b6nv6qvkee.jpg",
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -143,11 +207,52 @@
         ]
       },
       {
+        "id": "ffc5dd99-5a51-4d06-85dd-ef3d209002cc",
+        "name": "공용 바베큐",
+        "description": "가볍게 모여 앉아 나누는 식사 속에서\n자연스럽게 하루의 이야기가 이어집니다.\n편안한 분위기 속에서 여유로운 시간을 보내보세요.",
+        "usageGuide": " ※ 자세한 내용은 예약안내 페이지 참고 부탁드립니다.\n",
+        "displayOrder": 2,
+        "images": [
+          {
+            "id": "48b1df37-15ab-43da-8889-dc70a9927705",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ffc5dd99-5a51-4d06-85dd-ef3d209002cc/main/1782979956713-hrequft0nk.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "426cadc9-1722-40ed-bf05-ee374bd5d023",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ffc5dd99-5a51-4d06-85dd-ef3d209002cc/main/1782979956710-huo9bs37w0.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "90bc3923-a181-4a8f-a2e0-0939d59e97f1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ffc5dd99-5a51-4d06-85dd-ef3d209002cc/main/1782979956705-0nzi6rqx0o.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "73b4aa9d-8286-4eb1-a679-6714c49cf189",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ffc5dd99-5a51-4d06-85dd-ef3d209002cc/main/1782979956716-pp0wrhck77.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
         "id": "05b7f0c2-ca92-4a33-861e-cf78ebd89912",
         "name": "잔디 마당",
         "description": "푸른 잔디와 함께 펼쳐지는 편안한 공간에서\n햇살과 바람이 머무는 여유로운 하루를 즐겨보세요.",
         "usageGuide": " ",
-        "displayOrder": 2,
+        "displayOrder": 3,
         "images": [
           {
             "id": "940d4cfc-7d7d-4b78-a664-16342e411600",
@@ -180,7 +285,7 @@
         "name": "부대 시설",
         "description": "머무는 모든 순간이 편안하게 이어질 수 있도록\n세심한 준비로 공간의 완성도를 더했습니다.\n부담 없이 쉬어갈 수 있는 시간을 제공합니다.",
         "usageGuide": " ※ 자세한 내용은 예약안내 페이지 참고 부탁드립니다.\n",
-        "displayOrder": 3,
+        "displayOrder": 4,
         "images": [
           {
             "id": "ec3f0370-1443-46fa-9fff-2f7779cc4b7b",
@@ -3042,9 +3147,9 @@
         "font": {
           "koMain": {
             "cdn": null,
-            "key": "cafe24surround",
-            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/Cafe24Ssurround.woff",
-            "family": "Cafe24Surround"
+            "key": "escoredream",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-5Medium.woff",
+            "family": "Escoredream"
           },
           "koSub": {
             "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
