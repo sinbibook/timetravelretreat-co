@@ -4,15 +4,15 @@
 
 /* Font Faces */
 @font-face {
-  font-family: 'Cafe24Surround';
-  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/Cafe24Ssurround.woff') format('woff');
+  font-family: 'Escoredream';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-5Medium.woff') format('woff');
   font-weight: 400;
   font-display: swap;
 }
 
 /* CSS Variables */
 :root {
-  --font-ko-main: 'Cafe24Surround', sans-serif;
+  --font-ko-main: 'Escoredream', sans-serif;
   --font-ko-sub: 'Pretendard', sans-serif;
   --font-en-main: 'Sour Gummy', sans-serif;
   --color-primary: #F5F5F5;
