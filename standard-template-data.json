@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-07-03T02:55:56.107519089Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-07-03T03:02:26.458324478Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "bfcef79b-3666-4ce3-9a95-02efca274790",
     "homepageId": "48c34c44-5c4f-41dd-995d-ab95fb074531"
@@ -20,12 +20,12 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 원활한 운영을 위해 입실 및 퇴실 시간을 준수해 주세요.\n※ 오후 10시 이후 체크인 시에는 반드시 사전에 연락 부탁드립니다.\n※ 무인 체크인으로 운영되며, 입실 안내 문자에 체크인 방법이 기재되어 있으니 반드시 내용을 확인 부탁드립니다.",
-    "usageGuide": "- 예약자명/입실 인원/입실 예상 시간 펜션에 사전 전달 부탁드립니다.\n- 연말 및 연휴 단체 모임과 워크샵 예약을 원하실 경우 펜션으로 문의 부탁드립니다.\n- 정수기는 관리실에 비치되어 있습니다. 필요 시 관리실에서 물을 받아 이용 부탁드립니다.\n- 객실 내 비치된 장난감 및 물품 파손 시 수리/교체 비용이 발생할 수 있습니다.\n- 침구류 오염 시 세탁 또는 교체 비용이 청구될 수 있습니다.\n- 고성방가 및 과도한 소음 등으로 다른 고객님께 불편을 끼칠 경우, 별도의 환불 없이 강제 퇴실 조치될 수 있습니다.\n- 객실 내에서는 육류, 생선, 게, 청국장 등 냄새가 강한 음식의 조리를 금지합니다.\n- 음식 조리로 인해 객실 환기 및 특수 청소가 필요한 경우, 1박 숙박 요금이 청구될 수 있습니다\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 원활한 운영을 위해 입실 및 퇴실 시간을 준수해 주세요.\n※ 오후 10시 이후 체크인 시에는 반드시 사전에 연락 부탁드립니다.\n※ 무인 체크인으로 운영되며, 입실 안내 문자에 체크인 방법이 기재되어 있으니 반드시 내용을 확인 부탁드립니다.\n\n[인원추가요금]\n※ 레몬/오렌지 객실은 성인2인+아동2인 기준 입니다. (성인3인+아동1인 경우 추가 요금이 발생됩니다.)\n※ 침구 추가 : 1세트 현금가 10,000원 (1박기준/현장결제)\n※ 최대인원을 초과하실 경우 입실 불가합니다.\n\n[공용바베큐]\n- 이용 객실:전객실\n- 이용 장소:야외 공용 바베큐장\n- 바베큐 형태: 숯불\n- 제공 구성:숯,그릴,집게,가위\n- 이용 요금: 2인 기준 15,000원 / 1인 추가 시 5,000원(1박기준/현장결제)\n- 이용 시간: 15:00 ~ 22:00\n- 우천 시: 이용 불가\n※ 입실 당일 오후 12시까지 사전 예약 부탁드립니다.\n※ 숯불 피우기는 셀프로 진행됩니다.\n※ 비행기 도착 등으로 늦은 입실이 예정된 경우, 사전 연락을 주시면 22시 이후에도 바비큐를 이용하실 수 있습니다.\n※ 다른 고객님의 편안한 이용을 위해 노래, 고성방가 및 소란 행위는 삼가해 주세요.\n※ 소란이 지속될 경우 바비큐 이용이 중단되거나 강제 퇴실 조치될 수 있습니다.\n\n[부대시설]\n[제주 감귤 체험]\n- 이용 기간: 11~12월\n※ 체험을 원하실 경우 사전 문의 부탁드립니다.\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- CU편의점 (약 도보 4분거리 위치)\n- 하나로마트 하귀농협점 (약 차량 7분거리 위치)\n- 하나로마트 애월농협점 (약 차량 9분거리 위치)\n- 곽지해수욕장 (약 차량 10분거리 위치)\n\n[주차장]\n- 주차장 보유\n- 주차 대수: 1객실 당 1대 (추가 시 펜션 문의 부탁드립니다.)\n- 전기차 충전기 이용 가능",
+    "usageGuide": "[공지사항]\n- 예약자명/입실 인원/입실 예상 시간 펜션에 사전 전달 부탁드립니다.\n- 연말 및 연휴 단체 모임과 워크샵 예약을 원하실 경우 펜션으로 문의 부탁드립니다.\n- 정수기는 관리실에 비치되어 있습니다. 필요 시 관리실에서 물을 받아 이용 부탁드립니다.\n- 객실 내 비치된 장난감 및 물품 파손 시 수리/교체 비용이 발생할 수 있습니다.\n- 침구류 오염 시 세탁 또는 교체 비용이 청구될 수 있습니다.\n- 고성방가 및 과도한 소음 등으로 다른 고객님께 불편을 끼칠 경우, 별도의 환불 없이 강제 퇴실 조치될 수 있습니다.\n- 객실 내에서는 육류, 생선, 게, 청국장 등 냄새가 강한 음식의 조리를 금지합니다.\n- 음식 조리로 인해 객실 환기 및 특수 청소가 필요한 경우, 1박 숙박 요금이 청구될 수 있습니다\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 원활한 운영을 위해 입실 및 퇴실 시간을 준수해 주세요.\n※ 오후 10시 이후 체크인 시에는 반드시 사전에 연락 부탁드립니다.\n※ 무인 체크인으로 운영되며, 입실 안내 문자에 체크인 방법이 기재되어 있으니 반드시 내용을 확인 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 14세 이상\n- 아동: 36개월 이상~14세 미만\n- 유아: 36개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 레몬/오렌지 객실은 성인2인+아동2인 기준 입니다. (성인3인+아동1인 경우 추가 요금이 발생됩니다.)\n※ 침구 추가 : 1세트 현금가 10,000원 (1박기준/현장결제)\n※ 최대인원을 초과하실 경우 입실 불가합니다.\n\n[공용바베큐]\n- 이용 객실:전객실\n- 이용 장소:야외 공용 바베큐장\n- 바베큐 형태: 숯불\n- 제공 구성:숯,그릴,집게,가위\n- 이용 요금: 2인 기준 15,000원 / 1인 추가 시 5,000원(1박기준/현장결제)\n- 이용 시간: 15:00 ~ 22:00\n- 우천 시: 이용 불가\n※ 입실 당일 오후 12시까지 사전 예약 부탁드립니다.\n※ 숯불 피우기는 셀프로 진행됩니다.\n※ 비행기 도착 등으로 늦은 입실이 예정된 경우, 사전 연락을 주시면 22시 이후에도 바비큐를 이용하실 수 있습니다.\n※ 다른 고객님의 편안한 이용을 위해 노래, 고성방가 및 소란 행위는 삼가해 주세요.\n※ 소란이 지속될 경우 바비큐 이용이 중단되거나 강제 퇴실 조치될 수 있습니다.\n\n[부대시설]\n[제주 감귤 체험]\n- 이용 기간: 11~12월\n※ 체험을 원하실 경우 사전 문의 부탁드립니다.\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- CU편의점 (약 도보 4분거리 위치)\n- 하나로마트 하귀농협점 (약 차량 7분거리 위치)\n- 하나로마트 애월농협점 (약 차량 9분거리 위치)\n- 곽지해수욕장 (약 차량 10분거리 위치)\n\n[주차장]\n- 주차장 보유\n- 주차 대수: 1객실 당 1대 (추가 시 펜션 문의 부탁드립니다.)\n- 전기차 충전기 이용 가능",
     "reservationGuide": "- 예약자명/입실 인원/입실 예상 시간 펜션에 사전 전달 부탁드립니다.\n- 연말 및 연휴 단체 모임과 워크샵 예약을 원하실 경우 펜션으로 문의 부탁드립니다.\n- 정수기는 관리실에 비치되어 있습니다. 필요 시 관리실에서 물을 받아 이용 부탁드립니다.\n- 객실 내 비치된 장난감 및 물품 파손 시 수리/교체 비용이 발생할 수 있습니다.\n- 침구류 오염 시 세탁 또는 교체 비용이 청구될 수 있습니다.\n- 고성방가 및 과도한 소음 등으로 다른 고객님께 불편을 끼칠 경우, 별도의 환불 없이 강제 퇴실 조치될 수 있습니다.\n- 객실 내에서는 육류, 생선, 게, 청국장 등 냄새가 강한 음식의 조리를 금지합니다.\n- 음식 조리로 인해 객실 환기 및 특수 청소가 필요한 경우, 1박 숙박 요금이 청구될 수 있습니다",
     "province": "도/시",
     "city": "시/군/구",
     "domain": "timetravelretreat.co.kr",
-    "realtimeBookingId": "",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/2460",
     "ybsId": "70906",
     "amenities": [
       "주차장"
@@ -284,7 +284,7 @@
           {
             "id": "3e8b653e-6099-4498-93a7-1f04f3c621e0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/02/nuEwf5I4hH93.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -294,7 +294,7 @@
           {
             "id": "d4605521-e00b-4e47-a339-b2f8ef34c2cc",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/02/svazN1SFyI7c.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -302,7 +302,7 @@
           {
             "id": "5713db16-9236-40a3-8bac-64673283c738",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/02/cDF38K4qsePd.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -310,7 +310,7 @@
           {
             "id": "5d390996-5745-4d7e-b11f-2deed4816c22",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/02/X4raY1Kukosy.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -318,7 +318,7 @@
           {
             "id": "7557d5f9-846e-429b-8619-7fa60afe4302",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/02/8uDeCxSUHitO.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -326,7 +326,7 @@
           {
             "id": "ae4f1717-d039-48d2-b0e7-b20c812d0d9b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/02/c5WfUQeb8G3O.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -334,7 +334,7 @@
           {
             "id": "93f05946-fe09-4995-a283-1d49f062c1dc",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/02/1cOESfGypsP7.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -342,7 +342,7 @@
           {
             "id": "83f8bbec-9a90-483a-8c44-78cbdd945c1c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/02/EcCby0vmOdSg.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -350,7 +350,7 @@
           {
             "id": "24ab4df9-36fb-43ba-ab08-1e5dbbbcf7e0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/02/X15BukghKjLV.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -358,7 +358,7 @@
           {
             "id": "a03efd6e-3703-4656-8653-6406c43955bb",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/02/ynfZTrJIVtwN.jpg",
-            "sortOrder": 8,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -3004,15 +3004,33 @@
             {
               "hero": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "663ae264-1050-4191-87f3-702a4af03a07",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/48c34c44-5c4f-41dd-995d-ab95fb074531/layout_map_hero/1783047661692-h4tuifn5bs.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "description": ""
               },
               "about": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "9752cf61-724e-4793-a8fa-5462c1483d7e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/48c34c44-5c4f-41dd-995d-ab95fb074531/layout_map_about/1783047661707-dhlrnrrw7f.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "description": ""
               },
-              "enabled": false
+              "enabled": true
             }
           ]
         }
