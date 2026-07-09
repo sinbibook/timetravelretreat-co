@@ -332,6 +332,20 @@ class BaseDataMapper {
     }
 
     /**
+     * name 기반 meta 태그를 upsert (값 없으면 태그 생성 안 함 → 빈 태그 방지)
+     */
+    upsertMetaByName(name, content) {
+        if (!content) return;
+        let meta = document.head.querySelector(`meta[name="${name}"]`);
+        if (!meta) {
+            meta = document.createElement('meta');
+            meta.setAttribute('name', name);
+            document.head.appendChild(meta);
+        }
+        meta.setAttribute('content', content);
+    }
+
+    /**
      * SEO 정보 업데이트
      */
     updateSEOInfo(seo) {
@@ -351,6 +365,10 @@ class BaseDataMapper {
             const metaKeywords = this.safeSelect('meta[name="keywords"]');
             if (metaKeywords) metaKeywords.setAttribute('content', seo.keywords);
         }
+
+        // 네이버/구글 사이트 인증 meta 태그 주입 (값 있으면 생성/갱신)
+        this.upsertMetaByName('naver-site-verification', seo.naverSiteVerification);
+        this.upsertMetaByName('google-site-verification', seo.googleSiteVerification);
     }
 
     // ============================================================================
