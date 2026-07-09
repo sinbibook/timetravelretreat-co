@@ -286,6 +286,9 @@ class NearbyAttractionsMapper extends BaseDataMapper {
             this.mapClosingBanner();
             this.mapPropertyName();
 
+            // 메타 태그 및 SEO 업데이트 (인증코드 포함, 전 페이지 공통)
+            this.updateMetaTags();
+
             // 헤더, 푸터 매핑
             if (typeof window.HeaderFooterMapper !== 'undefined') {
                 const headerFooterMapper = new window.HeaderFooterMapper();
@@ -327,6 +330,9 @@ class NearbyAttractionsMapper extends BaseDataMapper {
             this.mapAttractionsContent();
             this.mapClosingBanner();
             this.mapPropertyName();
+
+            // 메타 태그 및 SEO 업데이트 (인증코드 포함, 전 페이지 공통)
+            this.updateMetaTags();
 
             // 헤더, 푸터 매핑
             if (typeof window.HeaderFooterMapper !== 'undefined') {
