@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.36.0",
-    "generatedAt": "2026-10-15T02:32:49.554672876Z",
+    "version": "1.37.0",
+    "generatedAt": "2026-10-15T02:33:56.760883429Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "bfcef79b-3666-4ce3-9a95-02efca274790",
     "homepageId": "48c34c44-5c4f-41dd-995d-ab95fb074531"
@@ -3167,12 +3167,12 @@
               }
             ],
             "slider": false,
+            "videos": [ ],
             "enabled": true,
-            "endDate": null,
+            "endDate": "2026-12-31",
             "sortOrder": 0,
-            "startDate": null,
-            "description": "",
-            "videos": [ ]
+            "startDate": "2026-10-15",
+            "description": ""
           }
         ]
       },
