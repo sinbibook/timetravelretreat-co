@@ -147,11 +147,11 @@ class DirectionsMapper extends BaseDataMapper {
         const noticeSection = this.safeSelect('[data-directions-notice-section]');
         const notice = directionsData?.notice;
 
-        // notice 데이터가 없거나 title/description이 모두 비어있으면 섹션 숨김
+        // 안내 내용(description)이 비어 있으면 섹션 숨김 — 제목('이용안내')만 있는 경우도 숨긴다
         const hasTitle = notice?.title && notice.title.trim() !== '';
         const hasDescription = notice?.description && notice.description.trim() !== '';
 
-        if (!notice || (!hasTitle && !hasDescription)) {
+        if (!hasDescription) {
             if (noticeSection) noticeSection.style.display = 'none';
             return;
         }
